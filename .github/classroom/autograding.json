@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/00CentroMatriz",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    },
+    {
+      "name": "test2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01SumaMatrices",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
