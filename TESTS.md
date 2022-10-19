@@ -18,5 +18,8 @@ sudo -H pip3 install pytest
 - ## 01 Suma Matrices
     ### Run command
     ```
-    pytest assignments/01SumaMatrices
+    
+    
+    
+    
     ```
